@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1B2845,100:0A1128&height=220&section=header&text=0xAnakMommy&fontSize=58&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Blockchain%20Developer%20%7C%20Post-Quantum%20Cryptography%20Researcher&descAlignY=55&descSize=17&descColor=FFD700" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Rayhan+Aziel+Abbrar+%2F+Zhao+Han;CEO+%26+Founder+of+Explomate;Founder+of+Zytherion+(Post-Quantum+L1);Building+in+public%2C+shipping+in+silence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Rayhan+Aziel+Abbrar+%2F+Zhao+Han;CEO+%26+Founder+of+Explomate;Building+in+public%2C+shipping+in+silence" alt="Typing SVG" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/zhao-leihan/Portofolio-website/main/assets/sparkle.svg" width="100%"/>
 
 </div>
 
@@ -19,8 +23,8 @@ whoami:
   alias: "Zhao Han"
   role: "Full-Stack Blockchain Developer / PQC Researcher / CEO & Founder"
   bags:
-    - "Zytherion — Post-Quantum Layer-1 Blockchain"
     - "Explomate — Web3 + AI Tourism & Freelance Platform"
+    - "Zytherion (Aescula) — pending"
   status: "building quietly, shipping consistently"
 ```
 
@@ -34,9 +38,9 @@ whoami:
 
 I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — an Informatics Engineering student (GPA 3.86) and Full-Stack Blockchain Developer focused on bridging Post-Quantum Cryptography with real-world decentralized products.
 
-- Founder & Lead Architect of **Zytherion**, a post-quantum Layer-1 blockchain built for data sovereignty and quantum resistance.
 - **CEO & Founder** of **[Explomate](https://explomate.com)**, a Web3 + AI-powered tourism guide and freelance marketplace.
 - Founder of **SawitNews.net**, a full-stack news platform.
+- Zytherion (Aescula) — post-quantum Layer-1 blockchain, currently pending.
 - Creator of **Gracia**, a domain-specific language for smart contract logic.
 - Builder of an F1 telemetry analysis system combining machine learning and on-chain data integrity.
 
@@ -90,18 +94,21 @@ I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — a
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=55&section=header&text=Now%20Playing&fontSize=20&fontColor=FFD700&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=55&section=header&text=Explomate&fontSize=20&fontColor=FFD700&animation=twinkling"/>
 </div>
 
 <div align="center">
 
-[![Play Theme](https://img.shields.io/badge/▶_PLAY_THEME-0A1128?style=for-the-badge&logo=soundcloud&logoColor=FFD700)](https://raw.githubusercontent.com/zhao-leihan/Portofolio-website/main/assets/music.wav)
+<img src="https://www.explomate.com/assets/logo.png" width="90"/>
 
-<img src="https://raw.githubusercontent.com/zhao-leihan/Portofolio-website/main/assets/equalizer.svg" width="100%"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/CEO-0A1128?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Blockchain_Developer-0A1128?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Marketing-0A1128?style=for-the-badge&logoColor=FFD700"/>
+<img src="https://img.shields.io/badge/Finance-0A1128?style=for-the-badge&logoColor=FFD700"/>
 
 </div>
-
-> **Note on the audio:** GitHub's README renderer strips `<audio>`/`<script>` tags for security, so a track can't auto-play directly inside the profile page. The badge above links straight to your `music.wav` file, and the animated bar visual gives the "beat drop" motion effect without needing playback support. If you want true in-page audio, you'd need to host this README on a personal site instead of github.com.
 
 ---
 
@@ -135,11 +142,11 @@ I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — a
 
 | Project | Role | Stack | Focus |
 |---|---|---|---|
-| Zytherion | Founder & Lead Architect | Go, TFHE, Ring-LWR, Dilithium5 | Post-quantum Layer-1 blockchain |
 | Explomate | CEO & Founder | Next.js, FastAPI, Zytherion | Web3 + AI tourism & freelance marketplace |
 | SawitNews.net | Founder & Full Stack Developer | Vue.js, Node.js, PostgreSQL | News & content platform |
 | Gracia | Creator | Go, Lexer/Parser | DSL for smart contracts |
 | F1 Telemetry System | Builder | Python, ML, Web3.py, IPFS | Data-driven race analytics |
+| Zytherion (Aescula) | Founder & Lead Architect | Go, TFHE, Ring-LWR, Dilithium5 | Post-quantum Layer-1 blockchain — *pending* |
 
 ---
 
