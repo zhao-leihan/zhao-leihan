@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/zhao-leihan/Portofolio-website/main/assets/sparkle.svg" width="100%"/>
 
 </div>
 
