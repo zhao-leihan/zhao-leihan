@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:1B2845,100:0A1128&height=220&section=header&text=0xAnakMommy&fontSize=58&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Blockchain%20Developer%20%7C%20Post-Quantum%20Cryptography%20Researcher&descAlignY=55&descSize=17&descColor=FFD700" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Rayhan+Aziel+Abbrar+%2F+Zhao+Han;CEO+%26+Founder+of+Explomate;Building+in+public%2C+shipping+in+silence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Rayhan+Aziel+Abbrar+%2F+Zhao+Han;CEO+%26+Founder+of+guidebloc;Building+in+public%2C+shipping+in+silence" alt="Typing SVG" />
 
 <br>
 
@@ -22,7 +22,7 @@ whoami:
   alias: "Zhao Han"
   role: "Full-Stack Blockchain Developer / PQC Researcher / CEO & Founder"
   bags:
-    - "Explomate — Web3 + AI Tourism & Freelance Platform"
+    - "guidebloc — Web3 + AI Tourism & Freelance Platform"
     - "Zytherion (Aescula) — pending"
   status: "building quietly, shipping consistently"
 ```
@@ -37,7 +37,7 @@ whoami:
 
 I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — an Informatics Engineering student (GPA 3.86) and Full-Stack Blockchain Developer focused on bridging Post-Quantum Cryptography with real-world decentralized products.
 
-- **CEO & Founder** of **[Explomate](https://explomate.com)**, a Web3 + AI-powered tourism guide and freelance marketplace.
+- **CEO & Founder** of **[guidebloc](https://guidebloc.com)**, a Web3 + AI-powered tourism guide and freelance marketplace.
 - Founder of **SawitNews.net**, a full-stack news platform.
 - Zytherion (Aescula) — post-quantum Layer-1 blockchain, currently pending.
 - Creator of **Gracia**, a domain-specific language for smart contract logic.
@@ -93,12 +93,12 @@ I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — a
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=55&section=header&text=Explomate&fontSize=20&fontColor=FFD700&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=55&section=header&text=guidebloc&fontSize=20&fontColor=FFD700&animation=twinkling"/>
 </div>
 
 <div align="center">
 
-<img src="https://www.explomate.com/assets/logo.png" width="90"/>
+<img src="https://www.guidebloc.com/assets/logo.png" width="90"/>
 
 <br><br>
 
@@ -141,7 +141,7 @@ I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — a
 
 | Project | Role | Stack | Focus |
 |---|---|---|---|
-| Explomate | CEO & Founder | Next.js, FastAPI, Zytherion | Web3 + AI tourism & freelance marketplace |
+| guidebloc | CEO & Founder | Next.js, FastAPI, Zytherion | Web3 + AI tourism & freelance marketplace |
 | SawitNews.net | Founder & Full Stack Developer | Vue.js, Node.js, PostgreSQL | News & content platform |
 | Gracia | Creator | Go, Lexer/Parser | DSL for smart contracts |
 | F1 Telemetry System | Builder | Python, ML, Web3.py, IPFS | Data-driven race analytics |
