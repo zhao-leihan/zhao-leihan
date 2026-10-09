@@ -99,7 +99,7 @@ I'm **Rayhan Aziel Abbrar**, also known as **0xAnakMommy** or **Zhao Han** — a
 <div align="center">
 
 <img src="https://www.guidebloc.com/assets/logo.png" width="90"/>
-
+<img src="https://www.trust-lesson.xyz/logo-full-white.webp" width="90"/>
 <br><br>
 
 <img src="https://img.shields.io/badge/CEO-0A1128?style=for-the-badge&logoColor=FFD700"/>
